@@ -1,6 +1,5 @@
 # Awesome-Travel-Expense-Automation
 
-Markdown
 ## Top Travel Expense Automation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
@@ -26,106 +25,46 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[SAP Concur](https://www.concur.com/)**  
-  Enterprise travel and expense management platform covering travel booking, expense reporting, receipt capture, approvals, reimbursement, policy enforcement, and integrations.
-
-- **[Ramp](https://ramp.com/)**  
-  Spend-management platform combining corporate cards, expense management, travel, accounts payable, approvals, and automated financial controls.
-
-- **[Brex](https://www.brex.com/)**  
-  Corporate spend platform combining cards, expense management, travel, reimbursements, procurement, and financial controls.
-
-- **[Navan Expense](https://navan.com/)**  
-  Integrated travel and expense platform combining business travel, expense reporting, corporate cards, reimbursements, policy controls, and travel analytics.
-
-- **[Emburse](https://www.emburse.com/)**  
-  Expense-management ecosystem providing expense capture, receipt automation, corporate cards, travel management, approvals, reimbursement, and spend analytics.
-
-- **[Expensify](https://www.expensify.com/)**  
-  Automated expense-management platform supporting receipt scanning, expense reports, reimbursements, corporate cards, approvals, and accounting integrations.
-
-- **[Zoho Expense](https://www.zoho.com/expense/)**  
-  Cloud expense-management platform supporting receipt scanning, travel expenses, mileage, approvals, reimbursements, corporate cards, and policy enforcement.
-
-- **[Pleo](https://www.pleo.io/)**  
-  Spend-management platform providing employee cards, expense management, receipt capture, reimbursements, approvals, and accounting integrations.
-
-- **[Soldo](https://www.soldo.com/)**  
-  Prepaid corporate-card and spend-management platform with expense tracking, controls, receipt capture, budgets, and accounting integrations.
-
-- **[Moss](https://www.getmoss.com/)**  
-  Spend-management platform combining corporate cards, expense management, invoices, reimbursements, approval workflows, and financial controls.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[SAP Concur](https://www.concur.com/)** | Enterprise travel and expense management platform covering travel booking, expense reporting, receipt capture, approvals, reimbursement, policy enforcement, and integrations. | Starts at ~$9/user/month (or ~$7/report for Standard Base tier; enterprise plans by quote) | 15-day free trial (full access to receipt capture, expense reporting, and basic configurations; no credit card required) |
+| **[Ramp](https://ramp.com/)** | Spend-management platform combining corporate cards, expense management, travel, accounts payable, approvals, and automated financial controls. | Free tier available; paid Ramp Plus starts at $15/user/month (billed monthly) / $12/user/month (billed annually) | Free for ever (unlimited cards, basic expense management, receipt capture, bill pay, and standard accounting integrations) |
+| **[Brex](https://www.brex.com/)** | Corporate spend platform combining cards, expense management, travel, reimbursements, procurement, and financial controls. | Free tier available; paid Brex Premium starts at $12/user/month | Free for ever (Essentials plan: $0/user/month for corporate cards, expense reimbursements, travel booking, and standard accounting integrations; requires US-registered entity) |
+| **[Navan Expense](https://navan.com/)** | Integrated travel and expense platform combining business travel, expense reporting, corporate cards, reimbursements, policy controls, and travel analytics. | Free for first 5 users; starts at $15/active user/month thereafter | Free for ever for up to 5 monthly active expensing users (full receipt scanning, corporate card issuance, and automated approvals) |
+| **[Emburse](https://www.emburse.com/)** | Expense-management ecosystem providing expense capture, receipt automation, corporate cards, travel management, approvals, reimbursement, and spend analytics. | Emburse Spend starts at $8/user/month ($7/user/month billed annually); Emburse Professional (Certify) starts at ~$12/user/month | 30-day free trial on Emburse Spend; 14-day free trial on Emburse Professional (Certify) |
+| **[Expensify](https://www.expensify.com/)** | Automated expense-management platform supporting receipt scanning, expense reports, reimbursements, corporate cards, approvals, and accounting integrations. | Free for individuals; Collect plan starts at $5/user/month (with Expensify Card) / $10/user/month (without card); Control plan starts at $9/user/month | Free for ever for individual tracking (unlimited receipt SmartScans, expense tracking, and mileage) or 6-week free trial for team workspaces |
+| **[Zoho Expense](https://www.zoho.com/expense/)** | Cloud expense-management platform supporting receipt scanning, travel expenses, mileage, approvals, reimbursements, corporate cards, and policy enforcement. | Free tier available; Standard plan starts at $3/user/month ($2.40/user/month billed annually; min 3 users); Premium plan at $5/user/month | Free for ever for up to 3 users (includes 20 receipt autoscans/month total, expense tracking, mileage, and 5GB receipt storage) |
+| **[Pleo](https://www.pleo.io/)** | Spend-management platform providing employee cards, expense management, receipt capture, reimbursements, approvals, and accounting integrations. | Free tier available; Essential plan starts at £39/month (up to 3 users, +£11.50/extra user/month) | Free for ever for up to 5 users (includes physical & virtual cards, automated expense capture, and basic accounting integrations) |
+| **[Soldo](https://www.soldo.com/)** | Prepaid corporate-card and spend-management platform with expense tracking, controls, receipt capture, budgets, and accounting integrations. | Standard plan starts at £21/month (for up to 3 users; +£7/extra user/month); Plus plan starts at £33/month | 30-day free trial on Standard and Plus plans (full access to prepaid cards, app expense capture, and reporting) |
+| **[Moss](https://www.getmoss.com/)** | Spend-management platform combining corporate cards, expense management, invoices, reimbursements, approval workflows, and financial controls. | Free tier available; Pro plan starts at €99/month + €10/user/month | Free for ever for up to 3 users (unlimited corporate cards, up to 20 invoices/month, receipt capture, and basic approval workflows) |
 
 ### Additional Notable SaaS / Hosted Options
 
-- **[Airbase](https://www.airbase.com/)**  
-  Spend-management platform covering corporate cards, expense management, accounts payable, approvals, procurement, and accounting workflows.
-
-- **[Navan](https://navan.com/)**  
-  Integrated business travel and expense platform combining travel booking, payments, expense reporting, and corporate spend management.
-
-- **[TravelPerk](https://www.travelperk.com/)**  
-  Business travel platform providing travel booking, expense-related workflows, travel policy management, reporting, and corporate travel administration.
-
-- **[Ramp Travel](https://ramp.com/travel)**  
-  Business travel and spend-management solution integrated with corporate cards, expense automation, travel policies, and spend controls.
-
-- **[Rydoo](https://www.rydoo.com/)**  
-  Expense-management platform focused on receipt capture, expense reporting, approvals, mileage, travel expenses, and accounting integrations.
-
-- **[Webexpenses](https://www.webexpenses.com/)**  
-  Cloud expense-management software covering receipt capture, expense reports, approvals, reimbursements, mileage, and accounting integration.
-
-- **[Fyle](https://www.fylehq.com/)**  
-  Expense-management platform with receipt capture, corporate cards, expense reporting, approvals, reimbursements, and accounting integrations.
-
-- **[ExpensePoint](https://www.expensepoint.com/)**  
-  Expense reporting platform supporting receipt processing, approvals, policy enforcement, mileage, reimbursements, and reporting.
-
-- **[ExpenseOnDemand](https://www.expenseondemand.com/)**  
-  Cloud expense-management system providing expense reporting, receipt capture, approvals, mileage tracking, and reimbursement workflows.
-
-- **[Payhawk](https://payhawk.com/)**  
-  Spend-management platform combining corporate cards, expense management, accounts payable, procurement, approvals, and accounting automation.
-
-- **[Spendesk](https://www.spendesk.com/)**  
-  Spend-management platform providing corporate cards, virtual cards, expense management, invoice workflows, approvals, and financial controls.
-
-- **[Jeeves](https://www.jeeves.com/)**  
-  Global corporate spend platform combining cards, expense management, payments, reimbursements, and financial controls.
-
-- **[Corpay](https://www.corpay.com/)**  
-  Corporate payments and expense-management ecosystem covering cards, travel payments, fleet expenses, and business spend.
-
-- **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)**  
-  Enterprise travel-management platform providing corporate travel booking, expense-related services, reporting, and travel program management.
-
-- **[Coupa](https://www.coupa.com/)**  
-  Business spend-management platform covering procurement, expenses, payments, travel, supplier management, and spend analytics.
-
-- **[Oracle Fusion Cloud Expenses](https://www.oracle.com/applications/erp/expenses/)**  
-  Enterprise expense-management capabilities integrated with Oracle's financial and ERP ecosystem.
-
-- **[Workday Expenses](https://www.workday.com/)**  
-  Enterprise expense-management capabilities integrated with Workday's financial-management and human-capital ecosystem.
-
-- **[Microsoft Dynamics 365 Expense Management](https://www.microsoft.com/dynamics-365)**  
-  Expense-management capabilities integrated with Microsoft's enterprise finance and operations ecosystem.
-
-- **[Certify](https://www.certify.com/)**  
-  Expense-management platform providing receipt capture, expense reports, approvals, reimbursement, and travel-expense workflows.
-
-- **[Abacus](https://www.abacus.com/)**  
-  Corporate expense-management platform focused on real-time expense reporting, approvals, reimbursements, and spend controls.
-
-- **[Divvy](https://getdivvy.com/)**  
-  Corporate-card and spend-management platform combining budgets, cards, expense management, and accounting workflows.
-
-- **[Center](https://www.getcenter.com/)**  
-  Corporate-card and expense-management platform combining employee spending, receipt capture, expense reports, and automated accounting workflows.
-
-- **[Clara](https://www.clara.com/)**  
-  Corporate spend-management platform providing cards, expense management, controls, and financial workflows for businesses.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Airbase](https://www.airbase.com/)** | Spend-management platform covering corporate cards, expense management, accounts payable, approvals, procurement, and accounting workflows. | Free tier available (Essentials); Growth/Enterprise packages start at ~$400/month (custom-quoted) | Free for ever (Essentials plan for early-stage companies: corporate cards, bill pay, reimbursement workflows, and standard integrations) |
+| **[Navan](https://navan.com/)** | Integrated business travel and expense platform combining travel booking, payments, expense reporting, and corporate spend management. | Free travel platform for teams up to 300 employees; expense add-on starts at $15/user/month after first 5 free users | Free for ever travel booking software for companies with up to 300 employees (plus 5 free monthly expensing users) |
+| **[TravelPerk](https://www.travelperk.com/)** | Business travel platform providing travel booking, expense-related workflows, travel policy management, reporting, and corporate travel administration. | Free Starter tier; Premium plan starts at $99/month + 3% per booking; Pro plan at $299/month | Free for ever (Starter plan: up to 5 travel bookings/month, 100% automated travel policy enforcement, and basic expense reports) |
+| **[Ramp Travel](https://ramp.com/travel)** | Business travel and spend-management solution integrated with corporate cards, expense automation, travel policies, and spend controls. | Included free in Ramp core platform ($0/user/month); Ramp Plus is $15/user/month | Free for ever within the core Ramp platform (unlimited travel bookings, automated receipt reconciliation, and corporate card controls) |
+| **[Rydoo](https://www.rydoo.com/)** | Expense-management platform focused on receipt capture, expense reporting, approvals, mileage, travel expenses, and accounting integrations. | Essentials plan starts at $10/user/month ($8/user/month billed annually; min 5 users); Pro plan at $12/user/month | 14-day free trial (unlimited OCR receipt scanning, approval workflows, mileage tracking, and ERP integration test) |
+| **[Webexpenses](https://www.webexpenses.com/)** | Cloud expense-management software covering receipt capture, expense reports, approvals, reimbursements, mileage, and accounting integration. | Starts at ~$10/active user/month (or £6/active user/month; pay only for active monthly submitters) | 14-day free trial / interactive sandbox demo with sample receipt upload and report generation |
+| **[Fyle](https://www.fylehq.com/)** | Expense-management platform with receipt capture, corporate cards, expense reporting, approvals, reimbursements, and accounting integrations. | Growth plan starts at $11.99/active user/month ($8.99/active user/month billed annually; min 5 users); Business plan at $14.99/user/month | 60-day free trial (unlimited receipt tracking via Slack, Teams, SMS, and Gmail, credit card feeds, and accounting sync) |
+| **[ExpensePoint](https://www.expensepoint.com/)** | Expense reporting platform supporting receipt processing, approvals, policy enforcement, mileage, reimbursements, and reporting. | Starts at $9.00/active user/month ($8.50/user/month billed annually; unlimited report submissions) | 30-day free trial (includes full receipt reader OCR, report builder, multi-currency conversion, and approval routing) |
+| **[ExpenseOnDemand](https://www.expenseondemand.com/)** | Cloud expense-management system providing expense reporting, receipt capture, approvals, mileage tracking, and reimbursement workflows. | Pay-as-you-use modular pricing starting at ~$7/active user/month (£4.90/user/month) based on selected feature modules | 30-day free trial (full access to chosen add-on modules, receipt scanning, approval chains, and currency converters) |
+| **[Payhawk](https://payhawk.com/)** | Spend-management platform combining corporate cards, expense management, accounts payable, procurement, approvals, and accounting automation. | Growth plan starts at £149/month (or $199/month) for Cards & Expenses; Enterprise plans by quote | 7-day free trial / sandbox account with virtual test cards, OCR receipt scanning, and approval workflow setup |
+| **[Spendesk](https://www.spendesk.com/)** | Spend-management platform providing corporate cards, virtual cards, expense management, invoice workflows, approvals, and financial controls. | Starter/Growth plans start at ~$120/month (£95/month) base fee; customized by entity & transaction volume | 14-day free trial / guided proof of concept with sample expense reports, virtual cards, and invoice approvals |
+| **[Jeeves](https://www.jeeves.com/)** | Global corporate spend platform combining cards, expense management, payments, reimbursements, and financial controls. | Free tier available; Enterprise/Global tiers custom-priced | Free for ever (Basic plan for up to 10 users: unlimited physical/virtual corporate cards, zero FX fees, and expense management) |
+| **[Corpay](https://www.corpay.com/)** | Corporate payments and expense-management ecosystem covering cards, travel payments, fleet expenses, and business spend. | Corpay One plans start at $9/user/month (or transaction-based card spend pricing) | 14-day free trial on Corpay One (includes automated receipt extraction, bill pay, and accounting synchronization) |
+| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | Enterprise travel-management platform providing corporate travel booking, expense-related services, reporting, and travel program management. | Custom enterprise fee schedule (typically starts at ~$10–$25 per offline/online booking transaction fee) | No free tier; 30-day pilot / proof-of-concept program available upon enterprise sales qualification |
+| **[Coupa](https://www.coupa.com/)** | Business spend-management platform covering procurement, expenses, payments, travel, supplier management, and spend analytics. | Custom enterprise subscription (typically starts at ~$2,500/month or ~$15/user/month for mid-market expense modules) | Free for ever on Coupa Supplier Portal (unlimited e-invoicing & PO tracking for vendors); 30-day trial for Coupa Advanced add-ons |
+| **[Oracle Fusion Cloud Expenses](https://www.oracle.com/applications/erp/expenses/)** | Enterprise expense-management capabilities integrated with Oracle's financial and ERP ecosystem. | Starts at ~$280/user/month for Oracle Cloud Financials base subscription (or custom quote for Self-Service Expenses add-on) | 30-day free trial with $300 in Oracle Cloud Free Tier credits to explore cloud applications and infrastructure |
+| **[Workday Expenses](https://www.workday.com/)** | Enterprise expense-management capabilities integrated with Workday's financial-management and human-capital ecosystem. | Starts at ~$150–$300/employee/year (annual contract, typically minimum $10,000–$25,000/year contract value) | 30-day free trial / sandbox demonstration access upon enterprise sales qualification |
+| **[Microsoft Dynamics 365 Expense Management](https://www.microsoft.com/dynamics-365)** | Expense-management capabilities integrated with Microsoft's enterprise finance and operations ecosystem. | Starts at $210/user/month for Dynamics 365 Finance (or $30/user/month attach license for existing base users) | 30-day free trial (includes access to Dynamics 365 Finance sandbox environment, sample expense workflows, and OCR receipt capture) |
+| **[Certify](https://www.certify.com/)** | Expense-management platform providing receipt capture, expense reports, approvals, reimbursement, and travel-expense workflows. | Certify Now starts at $12/user/month (monthly subscription for 1–25 employees); custom quotes for Enterprise | 14-day free trial (full access to automated receipt scanning, report creation, mobile app, and approval flows) |
+| **[Abacus](https://www.abacus.com/)** | Corporate expense-management platform focused on real-time expense reporting, approvals, reimbursements, and spend controls. | Starter plan starts at $9/active user/month ($8/user/month billed annually; min 2 users); Pro plan at $12/user/month | 14-day free trial (real-time expense submission, policy rules, receipt OCR, and automated next-day ACH reimbursements) |
+| **[Divvy](https://getdivvy.com/)** | Corporate-card and spend-management platform combining budgets, cards, expense management, and accounting workflows. | Free platform ($0/user/month; now BILL Spend & Expense, monetized via card interchange fees) | Free for ever (unlimited physical & virtual cards, unlimited expense reports, budget controls, and accounting sync) |
+| **[Center](https://www.getcenter.com/)** | Corporate-card and expense-management platform combining employee spending, receipt capture, expense reports, and automated accounting workflows. | Card-connected software starts at $0 base with CenterCard (custom-quoted platform fee for standalone software: ~$8/user/month) | 30-day pilot / sandbox evaluation program upon request (includes card issuance and receipt tracking) |
+| **[Clara](https://www.clara.com/)** | Corporate spend-management platform providing cards, expense management, controls, and financial workflows for businesses. | Free tier available; Pro plan starts at ~$12/user/month (or local currency equivalent in LATAM/global markets) | Free for ever for up to 5 users and 1 company entity (includes AI OCR receipt capture, WhatsApp submission, and corporate cards) |
 
 ## Open-Source GitHub Projects
 
@@ -323,6 +262,7 @@ Analytics
         ├── Grafana
         ├── Apache Superset
         └── Metabase
+```
 
 The open-source ecosystem is particularly strong in accounting, expense tracking, receipt OCR, workflow automation, and self-hosted financial management, while fully integrated open-source equivalents of SAP Concur, Ramp, Brex, Navan, or Emburse remain relatively limited. The strongest approach is therefore generally to combine specialized open-source projects into a unified expense-automation platform rather than expect one project to replace an enterprise T&E suite end-to-end.
 
