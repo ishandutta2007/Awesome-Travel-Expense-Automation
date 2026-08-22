@@ -1,7 +1,7 @@
 # Awesome-Travel-Expense-Automation
 
 Markdown
-# Top Travel Expense Automation Ecosystem
+## Top Travel Expense Automation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Corporate Travel Expenses, Expense Reporting, Receipt Automation, Reimbursements, Corporate Cards & Spend Management*  
